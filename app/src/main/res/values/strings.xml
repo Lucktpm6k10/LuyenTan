@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebView_ListView_RecyleView_GridView</string>
+    <string name="hintTen">Name</string>
+    <string name="hintTaiKhoan">Account</string>
+    <string name="hintMatKhau">Password</string>
+    <string name="tvDangKy">Register</string>
+    <string name="btnDangKy">Confirm</string>
+    <string name="tvTen">Name is : </string>
+    <string name="tvTaiKhoan">Account is : </string>
+    <string name="tvMatKhau">Password is : </string>
+    <string name="btnTiengViet">VietNamese</string>
+    <string name="btnTiengAnh">English</string>
+</resources>

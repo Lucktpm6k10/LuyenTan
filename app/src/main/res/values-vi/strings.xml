@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebView_ListView_RecyleView_GridView</string>
+    <string name="hintTen">Tên</string>
+    <string name="hintTaiKhoan">Tài khoản</string>
+    <string name="hintMatKhau">Mật khẩu</string>
+    <string name="tvDangKy">Đăng ký</string>
+    <string name="btnDangKy">Xác nhận</string>
+    <string name="tvTaiKhoan">Tài Khoản Là</string>
+    <string name="tvMatKhau">Mật khẩu là</string>
+    <string name="btnTiengViet">Tiếng Việt</string>
+    <string name="btnTiengAnh">Tiếng Anh</string>
+    <string name="tvTen">Tên Là</string>
+</resources>
